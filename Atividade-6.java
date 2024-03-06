@@ -17,7 +17,7 @@ class HelloWorld {
     System.out.println("Insira o percentual de desconto");
     desconto = scanner.nextDouble();
     
-    double valorP = preco-preco*(desconto/100);
+    double valorP = preco - preco * (desconto/100);
     
     System.out.println("nome:" + nome);
     System.out.println("Valor a pagar" + valorP);
