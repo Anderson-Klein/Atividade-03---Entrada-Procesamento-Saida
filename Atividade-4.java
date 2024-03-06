@@ -18,7 +18,7 @@ class HelloWorld {
     System.out.println("Insira o terceiro valor");
     num3 = scanner.nextDouble();
     
-    System.out.println("Insira o segundo valor");
+    System.out.println("Insira o quarto valor");
     num4 = scanner.nextDouble();
     
     double numt = (num1 + num2 + num3 + num4)/4;
