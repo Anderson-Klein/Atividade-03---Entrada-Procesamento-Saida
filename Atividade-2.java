@@ -3,7 +3,7 @@ class HelloWorld {
     public static void main(String[] args) {
         
         double num1 = 0.0;
-        double num2 = 0.0;;
+        double num2 = 0.0;
     
     Scanner scanner = new Scanner(System.in);
     
